@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\bin\Debug\EmployeeFactory.exe.config
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\bin\Debug\EmployeeFactory.exe
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\bin\Debug\EmployeeFactory.pdb
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.exe
+C:\Users\migue\OneDrive\Documentos\Escritorio\UdeA\AnalisisII\Solid\Solid\EmployeeFactory\EmployeeFactory\obj\Debug\EmployeeFactory.pdb
